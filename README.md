@@ -18,7 +18,7 @@ Follow these steps to set up and run the app.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/dog_dashboard.git
+   git clone https://github.com/moyosolaa/dog_dashboard_test.git
    ```
 
 2. Change your working directory to the project folder:
